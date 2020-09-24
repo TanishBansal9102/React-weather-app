@@ -1,0 +1,23 @@
+.WeatherCard {
+  border: 1px solid #eee8aa;
+  box-shadow: .15rem .15rem .5rem rgba(0, 0, 0, 0.1);
+  margin: auto;
+  padding: 2rem;
+  width: 20rem;
+  text-align: center;
+  animation: horizontalFlipIn 1s;
+}
+
+.WeatherCard-icon-container {
+  font-size: 4.5rem;
+  margin: 2rem 0 0;
+}
+
+.WeatherCard-icon {
+  margin: 0 0 2rem;
+}
+
+.WeatherCard-degrees {
+  font-size: 6rem;
+  margin: 0;
+}

@@ -1,0 +1,24 @@
+.Favorites {
+  margin: auto;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  max-width: 30vw;
+}
+
+.Favorites-title {
+  margin: auto;
+}
+
+.Favorites-button-container {
+  margin: 1rem 0 0;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Favorites-btn {
+  animation: fadeInUp .4s;
+  margin: 5px !important ;
+}

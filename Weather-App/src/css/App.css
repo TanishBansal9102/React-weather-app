@@ -1,0 +1,15 @@
+/* .App {
+  display: flex;
+  flex-flow: row;
+} */
+.AppDiv {
+  display: flex;
+  flex-flow: row;
+  margin: auto;
+}
+
+.Heading {
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;;
+  text-align: center;
+  font-size: 50px;
+}

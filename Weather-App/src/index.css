@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+p, li {
+  font-size: 1rem;
+}
+
+/* h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+} */
